@@ -1,0 +1,77 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body{
+    background-color: rgb(124, 207, 200);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+.carousel .carousel-inner {
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 30px;
+}
+
+.btn{
+    display:block;
+   ;
+}
+.button{
+    border-radius: 5px;
+    background-color: rgb(61, 60, 60);
+    color: white;
+    padding: 3px 38px;
+    
+}
+.travel-cards{
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+
+.travel-card{
+    box-sizing: border-box;
+    border: 1px solid black;
+    margin: 20px 15px;
+    width: 220px;
+}
+
+
+.content{   
+    background-color: aliceblue;
+    padding: 10px;
+    justify-content: space-between;
+    min-height: 300px;
+}
+
+.year{
+    font-size: 12px
+}
+.blog-2 .blog-3 .blog-4 .blog-5 .blog-6{
+    margin-top: 20px;
+}
+
+@media (max-width:576px){
+.container img {
+    max-width: 100%;
+    display: none;
+    margin: 0;
+    padding: 0;
+    
+}
+.travel-cards{
+display:grid;
+}
+.travel-card{
+    min-width: 350px;
+}
+}
