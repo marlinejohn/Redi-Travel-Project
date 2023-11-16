@@ -49,7 +49,7 @@ let travelList =[
         second: "Boat/ cruise tour",
         third: "Coffeeshops"
     },
-    img: "./images/amsterdam.jpg",
+    img: "./images/amsterdam1.jpg",
    },
 {
     id:"baku",
