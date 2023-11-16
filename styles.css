@@ -36,13 +36,17 @@ body{
     display: flex;
     justify-content: space-evenly;
     margin-top: 30px;
+    
 }
+
+
 
 .travel-card{
     box-sizing: border-box;
     border: 1px solid black;
     margin: 20px 15px;
     width: 220px;
+
 }
 
 
