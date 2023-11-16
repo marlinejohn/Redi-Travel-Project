@@ -77,6 +77,45 @@ let travelList =[
     },
     img: "./images/poland3.jpg",
     },
+    {
+        id: "gdynia",
+        continent: "Europe",
+        country: "Poland,",
+        city: "Gdynia",
+        year: 2022,
+        highlights:{
+            first: "Opener festival",
+            second: "Cruise trip",
+            third: "Boathouse"
+        },
+        img: "./images/poland3.jpg",
+        },
+        {
+            id: "gdynia",
+            continent: "Europe",
+            country: "Poland,",
+            city: "Gdynia",
+            year: 2022,
+            highlights:{
+                first: "Opener festival",
+                second: "Cruise trip",
+                third: "Boathouse"
+            },
+            img: "./images/poland3.jpg",
+            },
+            {
+                id: "gdynia",
+                continent: "Europe",
+                country: "Poland,",
+                city: "Gdynia",
+                year: 2022,
+                highlights:{
+                    first: "Opener festival",
+                    second: "Cruise trip",
+                    third: "Boathouse"
+                },
+                img: "./images/poland3.jpg",
+                },
 ]
 
 
